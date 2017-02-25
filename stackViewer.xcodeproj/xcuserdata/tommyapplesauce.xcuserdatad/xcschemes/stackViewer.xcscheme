@@ -14,7 +14,11 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+<<<<<<< HEAD
                BlueprintIdentifier = "59CA9E6E1E61F08000BD7D54"
+=======
+               BlueprintIdentifier = "59CA9E501E61E5F600BD7D54"
+>>>>>>> d4c08637ffd772eafa7f124fab4aa6607e72f41a
                BuildableName = "stackViewer.app"
                BlueprintName = "stackViewer"
                ReferencedContainer = "container:stackViewer.xcodeproj">
@@ -32,7 +36,11 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "59CA9E6E1E61F08000BD7D54"
+=======
+            BlueprintIdentifier = "59CA9E501E61E5F600BD7D54"
+>>>>>>> d4c08637ffd772eafa7f124fab4aa6607e72f41a
             BuildableName = "stackViewer.app"
             BlueprintName = "stackViewer"
             ReferencedContainer = "container:stackViewer.xcodeproj">
@@ -55,7 +63,11 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "59CA9E6E1E61F08000BD7D54"
+=======
+            BlueprintIdentifier = "59CA9E501E61E5F600BD7D54"
+>>>>>>> d4c08637ffd772eafa7f124fab4aa6607e72f41a
             BuildableName = "stackViewer.app"
             BlueprintName = "stackViewer"
             ReferencedContainer = "container:stackViewer.xcodeproj">
@@ -74,7 +86,11 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
+<<<<<<< HEAD
             BlueprintIdentifier = "59CA9E6E1E61F08000BD7D54"
+=======
+            BlueprintIdentifier = "59CA9E501E61E5F600BD7D54"
+>>>>>>> d4c08637ffd772eafa7f124fab4aa6607e72f41a
             BuildableName = "stackViewer.app"
             BlueprintName = "stackViewer"
             ReferencedContainer = "container:stackViewer.xcodeproj">
